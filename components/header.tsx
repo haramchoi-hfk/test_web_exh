@@ -28,7 +28,7 @@ export default function Header() {
         </tbody>
         <tbody className={utilStyles.menubar}>
           <tr>
-            <td className={utilStyles.menubarItem} /> {/* empty cell for spacing */}
+            <td className={utilStyles.menubarItem} />
             {
               items.map((item) => {
                 return (
