@@ -1,21 +1,24 @@
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
-import { useTranslation } from 'next-i18next';
 
 const items = [
   {
     id: 1,
-    name: "Post",
+    name: "Posts",
     link: "/post",
   },
+  {
+    id: 2,
+    name: "Projects",
+    link: "/project",
+  }
 ];
 
 
 export default function Header() {
-  const { t } = useTranslation('common');
   return (
     <div>
-      <table>
+      <table className={utilStyles.menubarTable}>
         <tbody className={utilStyles.menubarName}>
           <tr>
             <td>
@@ -23,16 +26,16 @@ export default function Header() {
             </td>
           </tr>
         </tbody>
-        <tbody>
-          <tr className={utilStyles.menubar}>
-            <td className={utilStyles.menubarItem} />
+        <tbody className={utilStyles.menubar}>
+          <tr>
+            <td className={utilStyles.menubarItem} /> {/* empty cell for spacing */}
             {
               items.map((item) => {
                 return (
                   <td
                     key={item.id}
                     className={utilStyles.menubarItem}>
-                    <Link href={item.link}>{t(item.name)}</Link></td>
+                    <Link href={item.link}>{item.name}</Link></td>
                 );
               })
             }

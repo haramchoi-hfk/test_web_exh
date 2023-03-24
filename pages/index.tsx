@@ -1,25 +1,15 @@
-import Head from "next/head";
-import Layout, { siteTitle } from "../components/layout";
-import utilStyles from "../styles/utils.module.css";
-import { getSortedPostsData } from "../lib/posts";
-import Link from "next/link";
-import Date from "../components/date";
-import Footer from "../components/footer";
+import Layout from "../components/layout";
+import Image from 'next/image';
+import mainPic from '../public/main.png'
+import utilStyles from '../styles/utils.module.css';
 
 
-export async function getStaticProps() {
-  const allPostsData = getSortedPostsData();
-  return {
-    props: {
-      allPostsData,
-    },
-  };
-}
+export const siteTitle = 'Haram Choi';
 
-export default function Home({ allPostsData }:any) {
+export default function Home() {
   return (
     <Layout home>
-
+      <Image priority src={mainPic} className={utilStyles.mainImageContainer} alt={siteTitle} />
     </Layout>
   );
 }

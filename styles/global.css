@@ -12,8 +12,8 @@ body {
   box-sizing: border-box;
 }
 
-a:hover {
-  text-decoration: underline;
+body a:hover {
+  color: white;
   background-color: brown;
 }
 

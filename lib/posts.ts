@@ -6,8 +6,6 @@ import html from 'remark-html';
 
 const postsDirectory = path.join(process.cwd(), 'posts')
 
-
-
 export function getSortedPostsData() {
   // Get file names under /posts
   const fileNames = fs.readdirSync(postsDirectory)
@@ -21,13 +19,14 @@ export function getSortedPostsData() {
 
     // Use gray-matter to parse the post metadata section
     const matterResult = matter(fileContents)
-
     // Combine the data with the id
-
     const item = {
       id,
-      ...matterResult.data,
+      title: matterResult.data.title,
+      date: matterResult.data.date,
+      summary: matterResult.data.summary,
     };
+
     return item;
   });
 
@@ -52,7 +51,7 @@ export function getAllPostIds() {
   })
 }
 
-export async function getPostData(id) {
+export async function getPostData(id:string) {
   const fullPath = path.join(postsDirectory, `${id}.md`);
   const fileContents = fs.readFileSync(fullPath, 'utf8');
 
@@ -64,7 +63,7 @@ export async function getPostData(id) {
     .use(html)
     .process(matterResult.content);
   const contentHtml = processedContent.toString();
-
+  
   // Combine the data with the id and contentHtml
   return {
     id,
