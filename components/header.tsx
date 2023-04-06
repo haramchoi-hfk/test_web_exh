@@ -2,7 +2,6 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 import { useTranslation, Trans } from 'next-i18next'
 
-
 const items = [
   {
     id: 1,
@@ -19,15 +18,13 @@ const items = [
 
 export default function Header() {
   const { t } = useTranslation('common');
-  const me = t('haramchoi');
-  console.log("me is : ", me);
   return (
     <div>
       <table className={utilStyles.menubarTable}>
         <tbody className={utilStyles.menubarName}>
           <tr>
             <td>
-              <Link href="/">{me}</Link>
+              <Link href="/">{`Haram Choi`}</Link>
             </td>
           </tr>
         </tbody>

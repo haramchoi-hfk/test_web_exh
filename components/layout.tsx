@@ -9,7 +9,7 @@ import mainPic from '../public/main.png'
 
 export const siteTitle = 'Haram Choi';
 
-export default function Layout({ children, home }: any) {
+export default function Layout({ children, me}: any) {
   return (
     <div className={styles.container}>
       <Head>

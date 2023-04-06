@@ -20,7 +20,7 @@ export const siteTitle = 'Haram Choi';
 export default function Home() {
   const { t } = useTranslation('common');
   return (
-    <Layout home>
+    <Layout>
       <Image priority src={mainPic} className={utilStyles.mainImageContainer} alt={siteTitle} />
     </Layout>
   );

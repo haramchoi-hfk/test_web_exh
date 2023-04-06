@@ -1,7 +1,9 @@
 {
+    "locale": "en",
     "japanese": "Japanese",
     "english": "English",
     "korean": "Korean",
     "post": "Posts",
-    "project": "Projects"
+    "project": "Projects",
+    "goback": "Go Back"
   }
