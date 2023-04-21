@@ -5,13 +5,18 @@ import { useTranslation, Trans } from 'next-i18next'
 const items = [
   {
     id: 1,
-    name: "post",
+    name: "Post",
     link: "/post",
   },
   {
     id: 2,
-    name: "project",
+    name: "Project",
     link: "/project",
+  },
+  {
+    id: 3,
+    name: "Contact",
+    link: '/contact'
   }
 ];
 

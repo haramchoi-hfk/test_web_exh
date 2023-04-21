@@ -22,6 +22,7 @@ export default function Post({ postData }: any) {
           <Date dateString={postData.date} />
         </div>
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+        
       </article>
       <br />
       <a className={utilStyles.mainPadding}>
