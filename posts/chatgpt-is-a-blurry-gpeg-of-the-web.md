@@ -4,7 +4,7 @@ date: '2023-04-21'
 summary: '이 글은 2023년 2월 9일 The New Yorker에 게재된 Ted Chiang의 사설 ｢ChatGPT Is a Blurry JPEG of the Web｣을 한글로 번역한 것이다. 2013년, 독일의 한 건설회사는 자신들이 사용하는 제록스(Xerox) 복사기의 이상한 점을 발견한다. 건물의 평면도를 복사할 때마다 복사본이 원본과 미묘하지만 분명하게 달랐던 것이다. 원본 건물에 있는 세 개의 방은...'
 ---
 
-　<div><small>이 글은 2023년 2월 9일 The New Yorker에 게제된 [Ted Chiang](https://ko.wikipedia.org/wiki/%ED%85%8C%EB%93%9C_%EC%B0%BD)의 사설 [｢ChatGPT Is a Blurry JPEG of the Web｣](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)을 한글로 번역한 것이다.</small></div>
+　<div><small>이 글은 2023년 2월 9일 The New Yorker에 게재된 [Ted Chiang](https://ko.wikipedia.org/wiki/%ED%85%8C%EB%93%9C_%EC%B0%BD)의 사설 [｢ChatGPT Is a Blurry JPEG of the Web｣](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)을 한글로 번역한 것이다.</small></div>
 <br>
 
 　2013년, 독일의 한 건설회사는 자신들이 사용하는 제록스(Xerox) 복사기의 이상한 점을 발견한다. 건물의 평면도를 복사할 때마다 복사본이 원본과 미묘하지만 분명하게 달랐던 것이다. 원본 건물에 있는 세 개의 방은 각각 그것의 면적을 지정하는 직사각형과 함께 표기되어 있었다. 방들은 각각 14.13, 21.11, 그리고 17.42 제곱미터였다. 하지만 복사본에는 모든 방이 14.13 제곱미터로 표기되어 있었다. 회사는 이 얼핏 이해하기 어려운 결과를 분석하기 위해 다비드 크리셀 (David Kriesel)이라는 컴퓨터 공학자에게 연락했다. 그들이 컴퓨터 공학자를 찾아 나선 것은 그 당시 최신 제록스 복사기가 물리적인  제로그래픽 프로세스(xerographic process)라는, 1960년대 당시에 대중화된 기술을 사용하지 않았기 때문이다. 이 기술 대신 그 복사기는 문서를 디지털의 형태로 스캔하여 얻은 이미지를 인쇄하는 방식으로 작동했다. 거의 모든 디지털 이미지 파일이 저장 공간을 절약하기 위해 압축된다는 사실을 함께 고려해 본다면, 위 수수께끼의 실마리는 쉽게 드러날 것이다.
