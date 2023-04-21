@@ -40,7 +40,7 @@ export default function Layout({ children, me}: any) {
         <meta name="twitter:title" content={siteTitle} />
         <meta name="twitter:description" content="Haram Choi" />
         <meta name="twitter:image" content="https://haramchoi.surge.sh/main.png" />
-
+        <title key="title">{siteTitle}</title>
       </Head>
       <Header />
       <main className={utilStyles.mainPadding}>{children}</main>
