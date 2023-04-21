@@ -6,6 +6,7 @@ import Link from 'next/link';
 import Footer from './footer';
 import Header from './header';
 import mainPic from '../public/main.png'
+import { Analytics } from '@vercel/analytics/react';
 
 export const siteTitle = 'Haram Choi';
 
@@ -13,6 +14,7 @@ export default function Layout({ children, me}: any) {
   return (
     <div className={styles.container}>
       <Head>
+        <Analytics />
         <link rel="icon" href="/favicon.ico" />
         <meta name="author" content="Haram Choi" />
         <meta name="description" content="Haram Choi's personal website" />
