@@ -4,13 +4,18 @@ import Link from "next/link";
 const items = [
   {
     id: 1,
-    name: "Posts",
+    name: "Post",
     link: "/post",
   },
   {
     id: 2,
-    name: "Projects",
+    name: "Project",
     link: "/project",
+  },
+  {
+    id: 3,
+    name: "Contact",
+    link: '/contact'
   }
 ];
 

@@ -17,8 +17,9 @@ export default function Post({ postData }:any) {
           <Date dateString={postData.date} />
         </div>
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+        
       </article>
-      <Link href="/post">&lt;_Back to Posts</Link>
+      <Link href="/post">&lt;Back to Posts</Link>
     </Layout>
   );
 }

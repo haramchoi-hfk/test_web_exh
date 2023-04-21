@@ -17,6 +17,7 @@ export default function Post({ allPostsData }: any) {
   return (
     <Layout>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+      <h2 className={utilStyles.headingLg}>Post</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title, summary }: any) => (
             <li className={utilStyles.listItem} key={id}>
