@@ -14,6 +14,7 @@ export default function Layout({ children, me}: any) {
   return (
     <div className={styles.container}>
       <Head>
+        <title key="title">{siteTitle}</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="author" content="Haram Choi" />
         <meta name="description" content="Haram Choi's personal website" />
@@ -27,20 +28,12 @@ export default function Layout({ children, me}: any) {
         <meta name="msapplication-TileColor" content="#000000" />
         <meta name="msapplication-tileImage" content="/ms-icon-144x144.png" />
         <meta name="title" content={siteTitle} />
-        <meta property="og:locale" content="en_US" />
-        <meta property="og:locale" content="kr_KO" />
-        <meta property="og:url" content="https://haramchoi.vercel.app" />
-        <meta property="og:type" content="website" />
         <meta property="og:title" content={siteTitle} />
         <meta property="og:description" content="Haram Choi's personal website" />
         <meta property="og:image" content="https://haramchoi.vercel.app/main.png" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@haramchoi" />
-        <meta name="twitter:creator" content="@haramchoi" />
-        <meta name="twitter:title" content={siteTitle} />
-        <meta name="twitter:description" content="Haram Choi" />
-        <meta name="twitter:image" content="https://haramchoi.vercel.app/main.png" />
-        <title key="title">{siteTitle}</title>
+        <meta property="og:url" content="https://haramchoi.vercel.app" />
+        <meta property="og:site_name" content={siteTitle} />
+        <meta property="og:type" content="website" />
       </Head>
       <Header />
       <main className={utilStyles.mainPadding}>{children}</main>
