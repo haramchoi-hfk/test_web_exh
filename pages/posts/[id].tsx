@@ -4,12 +4,8 @@ import Head from 'next/head';
 import Date from '../../components/date';
 import utilStyles from '../../styles/utils.module.css';
 import Link from "next/link";
-import { useTranslation, Trans } from 'next-i18next'
-import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
-
 
 export default function Post({ postData }: any) {
-  const { t } = useTranslation('common');
 
   return (
     <Layout>
@@ -27,7 +23,7 @@ export default function Post({ postData }: any) {
       <br />
       <a className={utilStyles.mainPadding}>
         <Link href="/post">
-          &lt;_{t('goback')}
+          &larr; Back to posts
         </Link>
       </a>
     </Layout>
@@ -47,7 +43,7 @@ export async function getStaticProps({ params, locale }: any) {
   return {
     props: {
       postData,
-      ...(await serverSideTranslations(locale, ['common'])),
+      locale
     }
   }
 }

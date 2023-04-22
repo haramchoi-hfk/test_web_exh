@@ -1,6 +1,5 @@
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
-import { useTranslation, Trans } from 'next-i18next'
 
 const items = [
   {
@@ -22,7 +21,6 @@ const items = [
 
 
 export default function Header() {
-  const { t } = useTranslation('common');
   return (
     <div>
       <table className={utilStyles.menubarTable}>
@@ -38,7 +36,7 @@ export default function Header() {
             <td className={utilStyles.menubarItem} />
             {
               items.map((item) => {
-                const name = t(item.name);
+                const name = item.name;
                 return (
                   <td
                     key={item.id}

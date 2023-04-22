@@ -3,8 +3,6 @@ import utilStyles from "../styles/utils.module.css";
 import { getSortedPostsData } from "../lib/posts";
 import Link from "next/link";
 import Date from "../components/date";
-import { useTranslation, Trans } from 'next-i18next'
-import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 import { useRouter } from "next/router";
 
 
@@ -14,13 +12,12 @@ export async function getStaticProps({ locale }: any) {
   return {
     props: {
       allPostsData,
-      ...(await serverSideTranslations(locale, ['common'])),
+      locale
     },
   };
 }
 
 export default function Post({ allPostsData, locale }: any) {
-  const { t } = useTranslation('common');
   const router = useRouter();
   const active_language = router.locale;
   console.log("this is locale: ", active_language);
