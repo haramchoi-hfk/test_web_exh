@@ -17,11 +17,6 @@ export async function getStaticProps() {
 }
 
 export default function Post({ allPostsData, locale }: any) {
-  const router = useRouter();
-  const active_language = router.locale;
-  console.log("this is locale: ", active_language);
-  console.log("this is from props: ", locale);
-
   return (
     <Layout>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

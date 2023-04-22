@@ -14,7 +14,6 @@ export default function Project() {
             <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
                 <h2 className={utilStyles.headingLg}>Project</h2>
                 <ul className={utilStyles.list}>
-
                 </ul>
             </section>
         </Layout>

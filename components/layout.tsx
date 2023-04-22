@@ -29,17 +29,17 @@ export default function Layout({ children, me}: any) {
         <meta name="title" content={siteTitle} />
         <meta property="og:locale" content="en_US" />
         <meta property="og:locale" content="kr_KO" />
-        <meta property="og:url" content="https://haramchoi.surge.sh" />
+        <meta property="og:url" content="https://haramchoi.vercel.app" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content={siteTitle} />
         <meta property="og:description" content="Haram Choi's personal website" />
-        <meta property="og:image" content="https://haramchoi.com/main.png" />
+        <meta property="og:image" content="https://haramchoi.vercel.app/main.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@haramchoi" />
         <meta name="twitter:creator" content="@haramchoi" />
         <meta name="twitter:title" content={siteTitle} />
         <meta name="twitter:description" content="Haram Choi" />
-        <meta name="twitter:image" content="https://haramchoi.surge.sh/main.png" />
+        <meta name="twitter:image" content="https://haramchoi.vercel.app/main.png" />
         <title key="title">{siteTitle}</title>
       </Head>
       <Header />

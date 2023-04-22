@@ -16,6 +16,8 @@ export default function Post({ postData }: any) {
         <h1 className={utilStyles.headingMd}>{postData.title}</h1>
         <div className={utilStyles.lightText}>
           <Date dateString={postData.date} />
+          {/* <br/> */}
+          {/* <Date dateString={postData.lastUpdate} /> */}
         </div>
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
         
