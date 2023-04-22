@@ -28,6 +28,7 @@ export default function Layout({ children, me}: any) {
         <meta name="msapplication-TileColor" content="#000000" />
         <meta name="msapplication-tileImage" content="/ms-icon-144x144.png" />
         <meta name="title" content={siteTitle} />
+        <meta name="robots" content="all" />
         <meta property="og:title" content={siteTitle} />
         <meta property="og:description" content="Haram Choi's personal website" />
         <meta property="og:image" content="https://haramchoi.vercel.app/main.png" />
