@@ -18,7 +18,7 @@ export default function Layout({ children, me}: any) {
         <link rel="icon" href="/favicon.ico" />
         <meta name="author" content="Haram Choi" />
         <meta name="description" content="Haram Choi's personal website" />
-        <meta name="keywords" content="Haram Choi, haramchoi, haram, choi, media art, philosophy"></meta>
+        <meta name="keywords" content="Haram Choi, haramchoi, haram, choi, media art, philosophy, 최하람"></meta>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="theme-color" content="#000000" />
         <meta name="apple-mobile-web-app-capable" content="yes" />

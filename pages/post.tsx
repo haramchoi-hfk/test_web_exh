@@ -24,7 +24,6 @@ export default function Post({ allPostsData, locale }: any) {
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title, summary }: any) => (
             <li className={utilStyles.listItem} key={id}>
-              {/* <Link href={`/posts/${id}`} locale={false}>{title}</Link> */}
               <Link href={`/posts/${id}`} >{title}</Link>
               <p className={utilStyles.postSummary}>
                 <small className={utilStyles.lightText}>

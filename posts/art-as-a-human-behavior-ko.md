@@ -10,12 +10,15 @@ keywords: 'art, aesthetics, ethology, experientialism, 예술, 미학, 행동학
 
 <div style="text-align: left">
 
-<div><small>이 글은 1980년 <i>The Journal of Aesthetics and Art Criticism</i>에 게재된 Ellen Dissanayake의 논문 ｢Art as a Human Behavior: Toward an Ethological View of Art｣<i>(DOI:10.2307/430321)</i>를 한글로 번역한 것이다. <a href="https://doi.org/10.2307/430321">(논문 링크)</a></small></div> 
-
-
+<div><small>
+　- 이 글은 1980년 <i>The Journal of Aesthetics and Art Criticism</i>에 게재된 Ellen Dissanayake의 논문 ｢Art as a Human Behavior: Toward an Ethological View of Art｣<i>(DOI:10.2307/430321)</i>를 한글로 번역한 것이다. <a href="https://doi.org/10.2307/430321">(논문 링크)</a>
 <br>
+　- 각주 등과 같은 표기는 원문의 방식을 따랐다.<br> 
+　- 선택된 한글 단어가 모호하거나 기타의 이유로 역자가 필요하다고 판단한 경우에는 원문의 단어를 병기했다.<br>
+　- 역자가 추가한 설명은 '역주:'라고 표기했다.
+</small></div> 
 
-
+<br><br>
 
 　예술 철학과 같은 인문학 분야를 가르치고 연구하는 이라면 고민해볼 것이 있다. 그것은 그들 자신의 작업이 앎과 정신에 관한 철학적 사색의 유산 위에 서 있으며, 그 유산이 인간의 의식과 정신 활동이 가진 긴 진화의 역사에 물음을 던지지 않은 사람들에 의해 형성되었다는 것이다.
 
@@ -57,15 +60,32 @@ keywords: 'art, aesthetics, ethology, experientialism, 예술, 미학, 행동학
 
 　**III. 행동학적으로 바라본 예술**
 
-　comming soon...
+　그 문제점
 
+　한때 철학자와 비평가들이 수행한 예술에 대한 논의는 예술이 한 대상에 내재된 특성(예를 들어 아름다움, 조화, 비례, 재현의 정확성, 의미있는 형태)에 의해 결정된다고 가정했는데, 이러한 특성은 감상자의 태도에 있는 일종의 선천적 기질<sup>predisposition</sup>에 의해 인식될 수 있었다. 이후 미학 이론이 발전함에 따라 부정할 수 없는 예술의 질과 특성들이 상당히 많아지고 있으며, 이러한 질과 특성들은 어떠한 방식으로든 정의에 포함되어야 한다. 오늘날, 누군가가 예술을 정의하고자 한다면 그것이 명령적<sup>injunctive</sup> 혹은 모호하고 개방적<sup>open-textured</sup>이어야 한다는 데 대부분 동의한다. (역주: open-texture는 F. Waismann(1896-1959)이 도입한 개념으로, 경험적 진술에서 모호함의 보편적인 가능성을 가리킨다.)
+
+　행동학적 접근과 철학 기반의 탐구는 서로 다른 종류의 문제와 어려움을 수반하지만, 그렇다고 행동학적 접근이  (적어도 초기에는) 더 간단하거나 더 쉽다는 것은 아니다.  우선, 앞서 나열된 가정들이 위배되어서는 안된다. 우리가 예술이라고 부르는 것은 예술가에게만 그리고 서구 사회에만 적용되는 것이 아니라 모든 인간, 그리고 과거와 현재의 모든 사회에 적용 가능한 것이어야 하며, 또한 납득 가능한 적응 가치를 지니고 있어야 한다. 그와 동시에 우리가 예술적 행동이라고 부르는 것은 무의미할만큼 부자연스럽거나 광범위해서도 안된다. 
+
+　둘째, 예술에 대한 행동학적 관점을 제안하는 사람은 새로운 지평을 여는 것과 같다. 어떤 이들은 분명히 예술의 기원과 그것이 인류에게 갖는 의미, 그리고 필요성에 대해 제안했다. 그러나 이는 대부분 진화론자 혹은 생물학자가 아니라 철학, 역사, 비평, 그리고 미학 분야의 작가들에 의해 제시되었다. 이러한 주장은 예술이 생물학적 진화의 산물로서의 행동이라는 행동학의 기본적인 전제에 근거하지 않으며, 따라서 위에 나열된 가정들을 충족하지 않는다.
+
+　가령, 과거의 준진화론적<sup>quasi-evolutionary</sup> 견해는 예술을 놀이, 신체 장식, “구성적 욕구”<sup>configurative urge</sup>, 창조적 혹은 표현적 충동, 공감적 마술, 지루함 해소, 자기 과시<sup>self-glorification</sup>적 동기 등 한 가지 근원으로 추적하는 경향이 있었다. 그러나 이 중 어느 것도 다양한 예술의 기원을 설명하기에는 부적절하다는 것이 밝혀졌다. 예술을 그것의 기원이 아니라 예술이 인간의 삶에 제공하는 몇 가지의 필수적인 요소(가령, 장신구 혹은 장식, 현실을 위한 “연습”, 현실로부터의 도피, 감각적인 혹은 “미학”적인 만족, 질서, 무질서)를 분리하여 예술이 무엇인지 결정하려는 시도 또한 있었다. 하지만 검토 결과, 이들 또한 부분적인 설명만을 제공하며 따라서 부적합하다.
+
+　불운한 예술 철학자 못지않게 첫 번째 원칙을 찾는 동물행동학자들에게 슬픔을 안겨주는 것은 예술의 고질적이고 억누를 수 없는 다양성(대상, 활동, 태도, 감정)이다. 이러한 다양성은 우리 사회뿐만 아니라 다른 인간 사회에서도 마찬가지이다.
+
+　아메리카, 아프리카, 그리고 오세아니아의 원시 사회에서는 다양한 예술적 그리고 미학적 이해를 발견한다. 그들 중 몇몇의 사회에서 예술은 매우 중요하게 다뤄지며, 몇몇에서는 그 중요함이 약하거나 전혀 중요하지 않기도 하다. 어떤 집단들에서 예술가는 전문가로 이해되는데 반면, 어떤 집단에서는 예술이 누구에게나 있는 능력이다. 예술은 특정한 공동의 목표를 이루는데 일조할 수 있고, 또 느낌의 개인적인 표현으로서 수행될 수 있다. 예술품은 신중하게 관리되기도, 아무렇게나 버려지기도 하며, 그들 자체로서 신성하고 가치있게 여겨지거나, 그것이 담고 있는 초자연적인 힘에 그 가치가 담겨있기도 하다. 또한 예술품의 가치는 새로움 혹은 전통적이고 정형화된 전통의 반복에 일조할 수도 있다. 그것의 묘사는 추상적일 수도 혹은 구체적일 수도 있다. 예술가는 존경을, 혹은 반대로 비난을 받거나 일탈적이고 사회적으로 열등한 존재로 간주될 수 있다. 어떤 집단에서는 예술이 사회로부터, 신적인 영역으로부터 혹은 발생한다고 여기며, 때로는 만연하고 저절로 발생하는 것이라고 간주하기도 한다. 한 명이 한 예술품을 만드는 것이 일반적인 경우이지만, 어떤 집단에서는 여러 사람이 하나의 예술품을 위해 함께 작업하기도 한다.
+
+　우리 서구의 예술 개념은 일관되거나 명확하지 않다. 만일 우리가 예술에 관해 작성된 글들을 검토해본다면, 예술이라는 단어가 그 글의 저자에 따라 일련의 다양한 의미를 내포한다는 것을 알 수 있다. 예술은 인공물(숙련된 기술이나 공예 혹은 인공물이라는 의미 모두에서), 공상(가장, 소원 성취, 환상, 이상, 놀이), 창의력(탐, 발명, 혁신, 자기 표현), 형식 또는 질서(경험에서 형식적 질서를 발견하거나 부여하려는 심리적 지각 및 정신적 필요, 패턴 만들기, 질서로서의 인식 또는 아름다움), 고양감<sup>heightend existence</sup>(감정, 엑스터시, 특별한 경험, 오락), 무질서(일탈 또는 부조화), 감각(추상적 사고와 대조되는 감각 경험의 즉각적인 충만, 또는 색이나 소리와 같은 사물의 감각적 특성), 계시(신 또는 현실에 대한 선천적인 끌림), 장식 또는 꾸밈(아름답게 꾸미려는 욕구 또는 경향, 장식 또는 구성에 대한 충동), 자기 표현, 뜻 혹은 의미, 그리고 이들 중 둘 이상의 조합으로서 다양하게 이해된다. 
+
+　예술이 이 모든 것들과 모종의 관련이 있는 것은 분명하지만, 행동학적 관점에서 더 주의 깊게 살펴보면 ‘예술’이라는 개념은 사라진다. 위에서 언급된 경험의 각 측면은 ‘예술’이라는 특별한 행동을 유발하지 않으면서도 다른 심리학이나 생물학적 욕구 혹은 경향에 포함될 수 있다. 예를 들어, 놀이 행위는 모든 비실용적 만들기는 물론, 공상, 환상, 가장, 장식 그리고 꾸미기까지 모두 포함할 수 있다. 탐구와 호기심은, 단순한 문제 해결이 아니라면, 혁신과 창의성의 사례들을 설명해낼 수 있다. 감각 경험은 지각의 사례로서 연구될 수 있다. 모든 동물은 형식적 질서와 예측 가능성을 필요로 한다. 이러한 요소 없이는 인지가 이루어질 수 없으며, 인지가 질서를 지각하거나 부과하는 것이라고 말하는 이도 있다. 마찬가지로 모든 동물은 무질서와 새로움을 필요로 한다. 이러한 요소를 포함하거나 제공하는 행동을 반드시 예술이라고 부를 필요는 없다. 고양감<sup>heightend existence</sup>은 성적 오르가즘, 성공적인 인정받음 혹은 권력 행사, 야망의 실현, 스포츠 경기, 재난, 놀이기구, 심지어 출산과 같은 예술 혹은 미적이라고 불리기 어려운 경험을 통해 추구하고 얻는 경우가 많다. 계시와 의미는 예술 뿐만 아니라 종교적 경험, 혹은 사랑하고 사랑받는 것의 구성 요소이다. 
+
+　Work in Process...
 </div>
 
 
 [^1]: J. Z. Young, *Programs of the Brain* (Oxford University Press, 1987).
 [^2]: J. H. Crook, "Social organization and the environment: aspects of contemporary social ethology," in C. L. Brace, and J. Metress (eds.), pp. 100-115 *Man in Evolutionary Perspective* (New York, 1975), p. 112.
-[^3]: This paper does not address the fascinating and important question of the possibility of innate "biological" propensities for considering certain things to be beautiful. Investigations of preferences for certain proportions, colors, musical intervals and the like suggest that there may be some very broad, general innate or universal bases for taste and judgment, but these are not likely to illuminate our understanding of "aesthetic" responses to works of art which seem to be responses to subtle complexities that inhere in specific or even unique circumstances and that do not lend themselves to precise analysis and measurement. What is generally called "aesthetic" response seems to be based upon at least tacit acquaintance with a "code" of symbolic representations—i.e., requiring an intellectual learned or  cognitive element—which in itself suggests that reflexive or innate actions would be of limited significance in the total response, though they may well influence its general outlines.
-[^4]: These and other fundamentals of human behavior can be found described, with an extensive bibliography, in L. Tiger, and R. Fox, *The imperial Animal* (New York, 1971) for a compendium of universal human gestures and signals.
-[^5]: Whether or not animals make art is, essentially, a matter of definition. Some have claimed that the decoration of his nest by the bower bird, or bird-song itself, are examples of a rudimentary artistic sense. But see below, note 27.
-[^6]: There is not space for such an endeavor here, though in a still unpublished manuscript I have attempted to identify and draw together art’s antecedents.
-[^7]: Resolution of the current controversy concerning the basic unit of evolution—gene, individual, or species—will not affect the theory presented here of the selective value of art.
+[^3]: 이 논문은 특정 대상을 아름답다고 생각하는 선천적인 “생물학적” 가능성은 다루지 않는다. 특정 비율, 색상, 음악적 간격 등에 대한 선호는 광범위하고 일반적인 선천적 또는 보편적 기반이 있을 수 있음을 시사한다. 그러나 우리가 이해하는 예술 작품에 대한 “미적” 반응은 특정 혹은 고유한 상황에 내재되어 있는 미묘한 복잡성에 대한 반응에 가까운 탓에 정확한 분석과 측정에 적합하지 않고, 따라서 예술 작품에 대한 미적 반응에 대한 우리의 이해에 도움이 되지 않을 수 있다. 일반적으로 “미적” 반응이라고 불리는 것은 상징적 표현의 “코드<sup>code</sup>”, 다시 말해, 지적으로 학습된 또는 인지적 요소를 필요로 하는 암묵적 친숙함을 기반으로 하는 것으로 보이며, 이는 반사적 혹은 타고난 행동이 그 자체로 미적 반응의 전체적인 윤곽선에 영향을 줄 수 있지만, 반응 전체에 있어서는 제한적인 의미만을 가질 것이라는 점을 시사한다.
+[^4]: 이러한 기초적인 인간 행동과 기타 인간 행동들은 L. Tiger, and R. Fox, The imperial Animal (New York, 1971)에서 광범위한 참고 문헌과 함께 찾아볼 수 있다. 
+[^5]: 동물도 예술품을 만드는지 여부는 기본적으로 정의의 문제이다. 어떤 사람들은 바우어새bower bird가 둥지를 장식하는 것, 그 새의 노래와 같은 것들이 초보적인 예술적 감각의 예라고 주장하기도 한다. 아래의 27번 각주를 참고.
+[^6]: 나는 아직 출판되지 않은 원고에서 예술의 선조들을 기술하려고 시도했다. 하지만 이 논문에는 이를 위한 공간이 없다.
+[^7]: 진화의 기본 단위인 유전자, 개체, 종에 관한 현재의 논란은 이 논문에서 제시되는 선택 가치에 대한 이론에 영향을 미치지 않는다.

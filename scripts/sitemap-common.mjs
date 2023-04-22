@@ -6,8 +6,6 @@ const getDate = new Date().toISOString();
 
 const DOMAIN = "https://haramchoi.vercel.app";
 
-
-
 (async () => {
     const pages = await globby([
         // include
