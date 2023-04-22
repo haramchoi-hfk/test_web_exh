@@ -3,6 +3,7 @@ title: '[번역] ChatGPT는 웹의 흐릿한 JPEG이다'
 date: '2023-04-21'
 lastUpdate: '2023-04-21'
 summary: '이 글은 2023년 2월 9일 The New Yorker에 게재된 Ted Chiang의 사설 ｢ChatGPT Is a Blurry JPEG of the Web｣을 한글로 번역한 것이다. 2013년, 독일의 한 건설회사는 자신들이 사용하는 제록스(Xerox) 복사기의 이상한 점을 발견한다. 건물의 평면도를 복사할 때마다 복사본이 원본과 미묘하지만 분명하게 달랐던 것이다. 원본 건물에 있는 세 개의 방은...'
+keywords: 'ChatGPT, AI, Machine Learning, ML, compression, art, ted chiang, 챗gpt, 인공지능, 머신러닝, 압축, 예술, 테드 창'
 ---
 
 　<div><small>이 글은 2023년 2월 9일 The New Yorker에 게재된 <u>[Ted Chiang](https://ko.wikipedia.org/wiki/%ED%85%8C%EB%93%9C_%EC%B0%BD)</u>의 사설 <u>[｢ChatGPT Is a Blurry JPEG of the Web｣](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)</u>을 한글로 번역한 것이다.</small></div>

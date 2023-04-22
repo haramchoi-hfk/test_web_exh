@@ -11,6 +11,13 @@ export default function Post({ postData }: any) {
     <Layout>
       <Head>
         {postData.title}
+        <title key="title">{postData.title}</title>
+        <meta name="author" content="Haram Choi" />
+        <meta name="description" content={postData.summary} />
+        <meta name="keywords" content={postData.keywords}></meta>
+        <meta property="og:title" content={postData.title} />
+        <meta property="og:description" content={postData.summary} />
+        <meta property="og:image" content="https://haramchoi.vercel.app/main.png" />
       </Head>
       <article>
         <h1 className={utilStyles.headingMd}>{postData.title}</h1>

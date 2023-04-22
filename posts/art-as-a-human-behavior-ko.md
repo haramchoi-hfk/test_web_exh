@@ -3,6 +3,7 @@ title: '[번역|WIP] 인간 행동으로서 예술'
 date: '2023-03-25'
 lastUpdate: '2023-04-22'
 summary: '이 글은 1980년 The Journal of Aesthetics and Art Criticism에 게재된 Ellen Dissanayake의 논문 "Art as a Human Behavior: Toward an Ethological View of Art"를 한글로 번역한 것이다.예술 철학과 같은 인문학 분야를 가르치고 연구하는 이라면 고민해볼 것이 있다. 그것은 그들 자신의 작업이 앎과 정신에 관한 철학적 사색의 유산 위에 서 있으며...'
+keywords: 'art, aesthetics, ethology, experientialism, 예술, 미학, 행동학, 체험주의, ellen dissanayake, 엘렌 디사나야케'
 ---
 <br>
 <br>
