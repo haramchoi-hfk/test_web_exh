@@ -1,10 +1,9 @@
 import Layout from "../components/layout";
 import utilStyles from "../styles/utils.module.css";
 
-export async function getStaticProps({ locale }: any) {
+export async function getStaticProps() {
     return {
         props: {
-            locale
         },
     };
 }

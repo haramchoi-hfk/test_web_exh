@@ -3,10 +3,10 @@ import Image from 'next/image';
 import mainPic from '../public/main.png'
 import utilStyles from '../styles/utils.module.css';
 
-export async function getStaticProps({ locale }: any) {
+export async function getStaticProps({  }: any) {
     return {
         props: {
-          locale
+          
         },
     };
 }

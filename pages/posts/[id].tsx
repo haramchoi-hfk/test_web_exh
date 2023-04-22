@@ -38,12 +38,11 @@ export async function getStaticPaths() {
   }
 }
 
-export async function getStaticProps({ params, locale }: any) {
+export async function getStaticProps({ params}: any) {
   const postData = await getPostData(params.id)
   return {
     props: {
       postData,
-      locale
     }
   }
 }

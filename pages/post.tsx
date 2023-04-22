@@ -7,12 +7,11 @@ import { useRouter } from "next/router";
 
 
 
-export async function getStaticProps({ locale }: any) {
+export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
   return {
     props: {
       allPostsData,
-      locale
     },
   };
 }
