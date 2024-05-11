@@ -2,6 +2,7 @@
 
 
 const nextConfig = {
+  basePath: '/test_web_exh',
   reactStrictMode: true,
   output: 'export',
   images:{
