@@ -2,7 +2,7 @@
 
 
 const nextConfig = {
-  basePath: '/test_web_exh',
+  basePath: '/test_web_exh', // remove on prod. build
   reactStrictMode: true,
   output: 'export',
   images:{
