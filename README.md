@@ -1,7 +1,8 @@
 ### How to Run Locally
 
 ```bash
-npm run dev ## hot-reload supported
+npm i # install node packages
+npm run dev # hot-reload supported
 ```
 
 ### Export Static Pages
