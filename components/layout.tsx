@@ -30,6 +30,7 @@ export default function Layout({ children, me }: any) {
           <meta property="og:url" content="https://studiesofchange.hfk-bremen.de" />
           <meta property="og:site_name" content={siteTitle} />
           <meta property="og:type" content="website" />
+          <link rel="shortcut icon" href="/favicon.ico" />
         </Head>
         <main>{children}</main>
         {/* <Footer /> */}
