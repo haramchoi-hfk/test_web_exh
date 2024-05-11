@@ -1,5 +1,5 @@
 import React from "react";
-import "./../styles/utios.module.css";
+import "./../styles/utils.module.css";
 
 export default function Content(props: { message:string }) {
   return (

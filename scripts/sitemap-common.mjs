@@ -4,7 +4,7 @@ import {format} from "prettier";
 
 const getDate = new Date().toISOString();
 
-const DOMAIN = "https://haramchoi.vercel.app";
+const DOMAIN = "https://studiesofchange.hfk-bremen.de";
 
 (async () => {
     const pages = await globby([

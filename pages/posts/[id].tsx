@@ -9,7 +9,7 @@ export default function Post({ postData }: any) {
 
   return (
     <Layout>
-      <Head>
+      {/* <Head>
         {postData.title}
         <title key="title">{postData.title}</title>
         <meta name="author" content="Haram Choi" />
@@ -17,8 +17,8 @@ export default function Post({ postData }: any) {
         <meta name="keywords" content={postData.keywords}></meta>
         <meta property="og:title" content={postData.title} />
         <meta property="og:description" content={postData.summary} />
-        <meta property="og:image" content="https://haramchoi.vercel.app/main.png" />
-      </Head>
+        <meta property="og:image" content="TODO" />
+      </Head> */}
       <article>
         <h1 className={utilStyles.headingMd}>{postData.title}</h1>
         <div className={utilStyles.lightText}>
